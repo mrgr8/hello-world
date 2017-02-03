@@ -1,5 +1,7 @@
 <style>
-.purple-text {color=purple;}
+.purple-text {
+color=purple;
+}
 </style>
 <h1 class="purple-text">My First Coding Experience</h1>
 <h2> February 2, 2017</h2>
