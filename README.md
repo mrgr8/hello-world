@@ -1,7 +1,5 @@
 <style>
-    .red-text {
-    color: red;
-    }
+h1 {class: red-text;}
 </style>
 <h1>My First Coding Experience</h1>
 <h2> February 2, 2017</h2>
