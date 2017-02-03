@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en"
 <style>
 </style>
 <h1>My First Coding Experience</h1>
