@@ -1,6 +1,26 @@
+
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
+  .red-text {
+    color: red;
+  }
+
+  h2 {
+    font-family: Lobster, Monospace;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: Monospace;
+  }
+  .smaller-image {
+    width: 100px;
+  }
 </style>
-<h1>My First Coding Experience</h1>
-<h2> February 2, 2017</h2>
-<p>Today, I am learning about CSS, which stands for Cascading Style Sheet. So far, I've learned that CSS makes your stuff nice looking</p>
-</html>
+
+<h2 class="red-text">CatPhotoApp</h2>
+
+<img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. ">
+
+<p class="red-text">Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
+<p class="red-text">Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
