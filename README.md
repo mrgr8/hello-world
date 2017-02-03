@@ -1,6 +1,6 @@
 <style>
 .purple-text {
-color=purple;
+color:purple;
 }
 </style>
 <h1 class="purple-text">My First Coding Experience</h1>
